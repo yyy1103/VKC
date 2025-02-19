@@ -4,7 +4,8 @@
 
 The full code will be released upon acceptance of the paper.
 
-![image](https://github.com/user-attachments/assets/e8a55419-9d21-4b92-b7dc-ec4abe166cfe)
+![image](https://github.com/user-attachments/assets/181199cd-5c88-434f-a75d-3a95019130ba)
+
 
 
 Intruduction:
@@ -24,6 +25,7 @@ VKC-MIR consists of four stages:
 Preprocess datasets： 
 -
 Download OK-VQA and AOK-VQA dataset, following the PICa format （https://github.com/microsoft/PICa）
+InfoSeek: https://paperswithcode.com/dataset/infoseek
 
 Large language models and multimodal tools
 -
@@ -43,12 +45,14 @@ GLEE:https://github.com/FoundationVision/GLEE
 
 Results:
 -
-![image](https://github.com/user-attachments/assets/1a5b61a2-0774-4cc4-8509-e297a1f3e979)
+![image](https://github.com/user-attachments/assets/bb86c082-4456-447a-a4d2-7526e3b15dd9)
+
 
 **Qualitative Analysis**
 -
 
-![image](https://github.com/user-attachments/assets/8d1a2131-53e1-42b4-a8af-14834b496630)
+![image](https://github.com/user-attachments/assets/20863741-1cde-4718-99a3-9409ef25a4d0)
+
 
 
 
